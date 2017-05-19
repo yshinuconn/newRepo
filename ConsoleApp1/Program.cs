@@ -12,8 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hi GitGraken");
             Console.WriteLine("Hi Again");
+            Console.WriteLine("master change");
             Console.ReadLine();
-;
         }
     }
 }
