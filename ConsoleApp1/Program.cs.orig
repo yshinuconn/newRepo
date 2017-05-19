@@ -17,12 +17,11 @@ namespace ConsoleApp1
             branch3 change1
 <<<<<<< HEAD
                 b4 c1
-
             Console.ReadLine();b
 =======
-
+                branch3 change2
             Console.ReadLine();
->>>>>>> parent of e2d696c... b4c1
+>>>>>>> branch3
         }
     }
 }
