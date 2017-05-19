@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+
+            mc1
             Console.WriteLine("Hi GitGraken");
             Console.WriteLine("Hi Again");
             Console.WriteLine("master change");
