@@ -15,8 +15,8 @@ namespace ConsoleApp1
             Console.WriteLine("master change");
             master change2;
             branch3 change1
-
-            Console.ReadLine();
+                b4 c1
+            Console.ReadLine();b
         }
     }
 }
