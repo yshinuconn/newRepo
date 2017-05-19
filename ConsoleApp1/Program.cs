@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hi GitGraken");
             Console.WriteLine("Hi Again");
             Console.WriteLine("branch1");
+            branch change2;
             Console.ReadLine();
         }
     }
