@@ -15,9 +15,14 @@ namespace ConsoleApp1
             Console.WriteLine("master change");
             master change2;
             branch3 change1
+<<<<<<< HEAD
                 b4 c1
 
             Console.ReadLine();b
+=======
+
+            Console.ReadLine();
+>>>>>>> parent of e2d696c... b4c1
         }
     }
 }
